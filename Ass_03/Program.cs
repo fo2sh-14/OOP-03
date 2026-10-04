@@ -14,6 +14,17 @@
             // Method Overriding => Dynamic Binding / Run Time 
             #endregion
 
+            #region Q1 - b
+            // Static Binding
+            // [New]
+            // Compilation
+            // Call Method Based on Ref [Parent]
+
+            // dynamic Binding
+            // [Override]
+            // Run Time
+            // Call Method Based on object [child]
+            #endregion
             #endregion
         }
     }
